@@ -1,0 +1,28 @@
+
+local tracer = tostring(game.PlaceId);
+if game.PlaceId == 379614936 or game.PlaceId == 860428890 or game.PlaceId == 5006801542 or game.PlaceId == 866472074 then
+tracer = "Assassin!"
+end
+
+if game.PlaceId == 142823291 then
+tracer = "Murder Mystery 2"
+end
+
+if game.PlaceId == 12355337193 or game.PlaceId == 13771457545 then
+tracer = "Murderer Vs Sheriff Duels"
+end
+
+if game.PlaceId == 16732694052 or game.PlaceId == 72907489978215 then
+tracer = "Fisch"
+end
+
+if game.PlaceId == 1269042450 then
+tracer = "Assassin X"
+end
+
+if game.PlaceId == 286090429 then
+tracer = "Arsenal"
+end
+if game.PlaceId == 14386691987 or game.PlaceId == 14259168147 then
+    tracer = "Basketball Legends"
+end
